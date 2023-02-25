@@ -1,0 +1,1 @@
+py -3 discordbot.py pause
